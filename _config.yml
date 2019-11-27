@@ -20,7 +20,7 @@ description: Welcome to Understanding Changing Consumer Behavior Driven by Minds
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://attilagere.github.io/meatfree.github.io/"
+  Home: "https://meatfreeresearch.github.io/"
   About Us: "aboutus"
   Project Description: "researcher"
   Contact Us: "contact"
@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "gereattilaphd@gmail.com"
+  email: "meatfreeresearch@gmail.com"
 # facebook: deanattali
 #  github: attilagere
 #  twitter: daattali
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://attilagere.github.io/meatfree.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://meatfreeresearch.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
