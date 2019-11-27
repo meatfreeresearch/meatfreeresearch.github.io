@@ -11,6 +11,6 @@ Additionally, there are other key areas demonstrating the differing values of ch
 We are seeing the rapidly changing demands of consumer beliefs, values and behavior driven by emotionally driven Mindsets – not just what they say but using our proprietary research technology, to understand what they think and do and importantly, WHY?
 
 <p align="center">
-  <img src=/img/health.jpg>
+  <img src="/img/health.jpg">
 </p>
 
