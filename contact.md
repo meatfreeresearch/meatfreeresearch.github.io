@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-subtitle: Where to Us?
+subtitle: Where to find Us?
 ---
 To find out more information about this groundbreaking proprietary 
 research in the US to understand the mind of the ‘new meat consumer” in areas such as Values, 
