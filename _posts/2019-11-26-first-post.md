@@ -10,4 +10,7 @@ However, within these findings there are two significant consumer behavior segme
 Additionally, there are other key areas demonstrating the differing values of changing consumer behavior.
 We are seeing the rapidly changing demands of consumer beliefs, values and behavior driven by emotionally driven Mindsets – not just what they say but using our proprietary research technology, to understand what they think and do and importantly, WHY?
 
-![Health aspects](/img/health.jpg) 
+<p align="center">
+  <img src=/img/health.jpg>
+</p>
+
