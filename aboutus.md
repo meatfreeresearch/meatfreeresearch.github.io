@@ -15,6 +15,16 @@ This is achieved by identifying consumers deep needs and Mindsets by linking emo
 using various TEOAI (Taste Emotions Online with AI algorithms) methodologies to take the risk out of 
 existing or new product development
 
+After a successful career at Director level in Marketing and Innovation, Derek joined QEP Marketing 
+Clinic in 2000 and became CEO in 2010 In that time the company has helped numerous Food & Beverage 
+companies around the globe increase existing product sales and develop innovative products successfully.
+This is achieved by identifying consumers deep needs and Mindsets by linking emotions to different tastes 
+using various TEOAI (Taste Emotions Online with AI algorithms) methodologies to take the risk out of 
+existing or new product development. Derek is author of several papers and books including the acclaimed  
+comprehensive review of Food and Beverage Taste Emotions in *The Taste Signature Revealed*.
+
+
+
 ***
 
 # Howard Moskowitz
