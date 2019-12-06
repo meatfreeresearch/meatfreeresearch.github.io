@@ -20,7 +20,7 @@ description: Welcome to MeatFree Research
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://meatfreeresearch.github.io/"
+  Home: "https://meatfreeresearch.com"
   About Us: "aboutus"
   Project Description: "researcher"
   Contact Us: "contact"
@@ -42,15 +42,16 @@ avatar: "/img/meatfree-logo.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+#navbar-text-col: "#404040"
+navbar-text-col: "#09bd21"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-
+#footer-link-col: "#404040"
+footer-link-col: "#09bd21"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
