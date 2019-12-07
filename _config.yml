@@ -43,7 +43,7 @@ avatar: "/img/meatfree-logo.png"
 
 #navbar-text-col: "#404040"
 #navbar-col: "#d2fad7"
-navbar-text-col: "#d2fad7"
+navbar-text-col: "#09bd21"
 navbar-col: "#F5F5F5"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -58,7 +58,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/cow.jpg"
+#page-img: "/img/cow.jpg"
 
 # --- Footer options --- #
 
