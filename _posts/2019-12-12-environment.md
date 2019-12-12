@@ -9,10 +9,10 @@ impact on the Environment of consuming “Non-Meat” Meat vs. regular meat
 
 *Overall top line on the Environment is that:*
 
-       1. There is a clear differentiation of Mindsets between this who link the consumption of meat to environmental problems and those who do 
+    1. There is a clear differentiation of Mindsets between this who link the consumption of meat to environmental problems and those who do 
 not and this largely determines all their detailed responses and result to the questions we asked
 
-       2. Those who do care are more likely to be female and younger vs male and older
+    2. Those who do care are more likely to be female and younger vs male and older
 
 Such was the polarization of the differing Mindsets that it revealed majorly differing attitudes to both the concept of Meat Free and 
 concerns (or not) about the Environment
