@@ -14,14 +14,21 @@ the modelling and predicting of future behavior in mathematically proven detail.
 The results will be will focus on the following areas: (
 
 *[Health](http://meatfreeresearch.com/2019-11-26-first-post/ "Healt aspects")
+
 *Environment
+
 *Culture
+
 *Taste expectations
+
 *Cultured meat
+
 *Plant-based meat
+
 *New protein sources
+
 *Food types
 
 It is planned to expand the research into Europe, Asia and the Middle East in 2020
 If you are interested in participating in this research or would like to purchase either
-individual country reports or the research in its entirety, please contact us [here] (http://meatfreeresearch.com/contact/ "Contact Us")
+individual country reports or the research in its entirety, please contact us [here](http://meatfreeresearch.com/contact/ "Contact Us")
