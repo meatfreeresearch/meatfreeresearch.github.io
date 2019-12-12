@@ -5,7 +5,7 @@ title: Environmental aspects of meat alternatives - What drives consumer minds w
 
 The results of the 2nd part of an eight part proprietary ground breaking market research study using Mind Genomics psychophysics 
 into what excites or does not excite consumers emotionally in the emerging meat free "meat" market in the US focussed on the perceived 
-impact on the Environment of consuming “Non-Meat” Meat vs. regular meat
+impact on the Environment of consuming *“Non-Meat”* vs. regular meat
 
 *Overall top line on the Environment is that:*
 
