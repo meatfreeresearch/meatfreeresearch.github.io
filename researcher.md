@@ -13,21 +13,21 @@ attitudes. In addition, their differing individual Mindsets will be grouped toge
 the modelling and predicting of future behavior in mathematically proven detail.
 The results will be will focus on the following areas: (
 
-*[Health](http://meatfreeresearch.com/2019-11-26-first-post/ "Healt aspects")
+**[Health](http://meatfreeresearch.com/2019-11-26-first-post/ "Healt aspects")**
 
-*Environment
+**[Environment](https://meatfreeresearch.com/2019-12-12-environment/)**
 
-*Culture
+**Culture**
 
-*Taste expectations
+**Taste expectations**
 
-*Cultured meat
+**Cultured meat**
 
-*Plant-based meat
+**Plant-based meat**
 
-*New protein sources
+**New protein sources**
 
-*Food types
+**Food types**
 
 It is planned to expand the research into Europe, Asia and the Middle East in 2020
 If you are interested in participating in this research or would like to purchase either
