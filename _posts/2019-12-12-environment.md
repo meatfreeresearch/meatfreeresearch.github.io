@@ -19,7 +19,7 @@ concerns (or not) about the Environment
 
 To find out more information about this ground breaking proprietary research in the US to understand the mind of the "new meat consumer"
 in areas such as Values, Lifestyle, Taste Expectations, Consumption and Emotions and so forth, and our plans to expand to further countries 
-contact us **[here](http://meatfreeresearch.com/contact/ "Contact Us")**
+contact us **[here](http://meatfreeresearch.com/contact/ "Contact Us")**.
 
 <p align="center">
   <img src="/img/environment.jpg">
