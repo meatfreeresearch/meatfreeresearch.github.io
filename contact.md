@@ -11,14 +11,14 @@ to a further (5 -7) countries contact us at Mind Genomics and Taste Emotions.
 ***
 
 # Derek E. Roberts 
-[derek@qepmarketingclinic.com](derek@qepmarketingclinic.com)
+[derek@meatfreeresearch.com](derek@meatfreeresearch.com)
 
 ***
 
 # Howard Moskowitz
-[mjihrm@gmail.com](mjihrm@gmail.com)
+[howard@meatfreeresearch.com](howard@meatfreeresearch.com)
 
 ***
 
 # Attila Gere
-[gereattilaphd@gmail.com](gereattilaphd@gmail.com)
+[attila@meatfreeresearch.com](attila@meatfreeresearch.com)
